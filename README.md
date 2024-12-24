@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 👯 I’m looking to collaborate on Web Devolepment Projects
 - 💬 Ask me about PHP Laravel
 - 📫 How to reach me: aakibkachchi@gmail.com
-- ⚡ Fun fact: I love wathcing Doremon
+- ⚡ Fun fact: I still love wathcing Doremon
 
 ## 🛠️ Technologies & Tools
 
