@@ -2,6 +2,9 @@
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github&logoColor=white&link=https://github.com/aakib291)](https://github.com/aakib291)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakib-kachchhi-644880249/)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aakib_memon_10)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/aakib.kachchhi)
+
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in [Your Interests or Specializations]. Here's a little more about me:
 
