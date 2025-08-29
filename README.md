@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🔭 I’m currently working on Freelancing Projects
 - 🌱 I’m currently learning React and Node
 - 👯 I’m looking to collaborate on Web Devolepment Projects
-- 💬 Ask me about PHP Laravel
+- 💬 Ask me about Tech Updates
 - 📫 How to reach me: aakibkachchi@gmail.com
 - ⚡ Fun fact: I still love wathcing Doremon
 
