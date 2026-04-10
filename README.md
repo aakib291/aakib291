@@ -25,9 +25,9 @@ Here are some of the technologies and tools I work with:
 
 ## 📈 GitHub Stats
 
-<!-- ![Aakib's GitHub stats](https://github-readme-stats.vercel.app/api?username=aakib291&show_icons=true&theme=radical) -->
+![Aakib's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=aakib291&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakib291&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aakib291&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
